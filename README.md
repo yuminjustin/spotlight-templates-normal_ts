@@ -3,7 +3,7 @@ spotlight scaffold template for Typescript<br>
 
 ## Use：
 
-     spotlight normal_ts my-project
+     spotlight ts normal my-project
 
      cd my-project
 
