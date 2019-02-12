@@ -1,4 +1,4 @@
-## spotlight-templates-normal_ts
+## spotlight-templates-ts-normal
 spotlight scaffold template for Typescript<br>
 
 ## Use：
